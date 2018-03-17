@@ -1,10 +1,10 @@
 # Software-And-Codes
-#1:-
-How to Store Data in Json File Using php 
-Open This Folder Name Given Below
-Folder Name:- Store-data-in-json-file
+<span># 1:-
+<span>How to Store Data in Json File Using php </span>
+<span>Open This Folder Name Given Below<span>
+<span>Folder Name:- Store-data-in-json-file</span>
 <hr>
-#2:-
-How To Read The text File Using php
-Open This Folder Name Given Below
-Folder Name:- read-txt-file
+<span># 2:-</span>
+<span>How To Read The text File Using php</span>
+<span>Open This Folder Name Given Below</span>
+<span>Folder Name:- read-txt-file</span>
